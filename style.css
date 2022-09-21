@@ -1,0 +1,14 @@
+/*index.html*/
+
+body{
+   font-family:  Arial, Helvetica, sans-serif
+   }
+.til{
+    background-color: green;
+    font-weight: 800;
+    font-size: 50px;
+    text-align: center;
+}
+#lin{
+    font-size: 28px;
+}
