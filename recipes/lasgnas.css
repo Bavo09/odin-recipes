@@ -12,7 +12,7 @@
 
 .P1,
 .P2{
-    background-color: aquamarine;
+    background-color: aquamarine !important;
     font-family: 'Courier New', Courier, monospace;
 
 }
