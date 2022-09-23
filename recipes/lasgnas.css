@@ -1,0 +1,30 @@
+.mian{
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: aquamarine;
+}
+#ig{
+    height: auto;
+    font: weight 500px;
+
+}
+
+.P1,
+.P2{
+    background-color: aquamarine;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+.in,
+.un{
+    background-color: wheat;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.st,
+.ot{
+    background-color: wheat;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+}
